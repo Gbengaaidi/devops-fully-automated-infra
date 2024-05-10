@@ -8,7 +8,7 @@ Testing teh webhook.....
     Fork GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/danieljigga/devops-fully-automated-infra)     
     - Go to GitHub (github.com)
     - Login to your GitHub Account
-    - **Fork repository "devops-fully-automated-infra" (https://github.com/danieljigga/devops-fully-automated-infra.git) & name it "devops-fully-automated-infra"**
+    - **Fork repository "devops-fully-automated-infra" (https://github.com/Gbengaaidi/devops-fully-automated-infra.git) & name it "devops-fully-automated-infra"**
     - Clone your newly created repo to your local
 
 2) ###### Jenkins
